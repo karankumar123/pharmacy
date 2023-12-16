@@ -1,0 +1,20 @@
+.font a 
+{
+	font-size: 15px;
+	text-decoration: none;
+}
+.font  i{
+	font-size: 20px;
+}
+.container-fluid{
+	font-size: 20px;
+	text-align: center;;
+	padding: 15px;
+	background-color:greenyellow;
+	
+}
+
+.font {
+	color: white;
+}
+

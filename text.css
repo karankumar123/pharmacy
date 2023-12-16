@@ -1,0 +1,43 @@
+.mydiv{
+
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  width: 13%;
+  height:100vh;
+  margin-top: 0;
+  
+  
+}
+
+
+
+img{
+    padding-top: 12px;
+}
+.font{
+    color: red;
+    font-size: 20px;
+
+   
+
+}
+.w3-dropdown-hover a{
+    text-decoration: none;
+}
+
+#demo
+{
+   font-size: 30px; 
+   font-style: unset;
+   
+}
+.box-4{
+    background-color: red;
+    border: 2px solid blue;
+}
+
+
+
+   
+
+
